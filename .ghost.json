@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "http://blog.surface-coop.com",
+    "contentApiKey": "3d411e47efe6ee3c0309998134"
+  },
+  "production": {
+    "apiUrl": "http://blog.surface-coop.com",
+    "contentApiKey": "3d411e47efe6ee3c0309998134"
+  }
+}
